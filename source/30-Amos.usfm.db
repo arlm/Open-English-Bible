@@ -1,20 +1,41 @@
-\c 1 
+\id AMO Open English Bible
+\ide UTF-8
+\h Amos
+
+\mt2 The Sermons of
+\mt1 Amos
+
+\rem   Original Base Text:
+\rem       Work of Coby Ingram
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Complete
+\rem       Initial Check Only
+\rem       US and Cth spelling ?
+\rem       NSRV and JPS versification ?
+\rem       Gender ?
+
+\c 1
 \v 1 The words of Amos,
 \q2 one of the drovers\f + \fl Lit. \fqa one of the cattle-branders. \ft Amos was probably "a rider for a brand," herding animals in an economy of scale. See 7.14f.\f* from Tekoa.
 \q1 These are the visions that he saw about Israel
 \q2 during the term of King Uzziah of Judah,
 \q1 and the term of Jeroboam son of Joash, king of Israel,
 \q2 two years before the earthquake.
-\b 
+\b
 \rem The breaks in this document follow the (admittedly arbitrary) {s} and {p} breaks in the WLC.
 \rem Section headings have been deleted, in order to allow the text to speak for itself without interruption.
-\rem 
+\rem
 \v 2 And he said, "The \nd Lord\nd* roars from Zion,
 \q2 and calls out from Jerusalem.
 \q1 'Hey! The sheep pastures are declining,
 \rem Lit. "And the sheep pastures..."
 \q2 and the top of Carmel is dying back!'”
-\b 
+\b
 \v 3 The \nd Lord\nd* says, "After three atrocities from Damascus –-
 \q2 make that four --- I am not suspending their sentence.
 \q1 They've used iron tools to thresh Gilead.
@@ -25,7 +46,7 @@
 \q2 and the one who holds the scepter in Beit Eden;
 \q1 the people of Aram will be deported to Kir,"
 \q2 says the \nd Lord\nd*.
-\b 
+\b
 \v 6 The \nd Lord\nd* says, "After three atrocities from Gaza ---
 \q2 make that four --- I am not suspending their sentence.
 \q1 Because they herded together a whole people,
@@ -36,14 +57,14 @@
 \q2 and of the one who holds the scepter in Ashkelon.
 \q1 I will turn my hand against Ekron,
 \q2 and the survivors of the Philistines will die off," says the \nd Lord\nd*.
-\b 
+\b
 \v 9 The \nd Lord\nd* says, "After three atrocities from Tyre ---
 \q2 make that four --- I am not suspending their sentence.
 \q1 Because they deported an entire population to Edom,
 \q2 and did not honor their treaty of friendship.
 \v 10 So I will set fire to the walls of Tyre.
 \q2 And it will burn up her high buildings."
-\b 
+\b
 \v 11 The \nd Lord\nd* says, "After three atrocities from Edom ---
 \q2 make that four --- I am not suspending their sentence.
 \q1 They hunted their sister nation with the sword,
@@ -52,7 +73,7 @@
 \q2 and permanently held on to their rage.
 \v 12 So I will set fire to Teman.
 \q2 It will burn up the high buildings of Bozrah."
-\b 
+\b
 \v 13 The \nd Lord\nd* says, "After three atrocities from the nation of Ammon ---
 \q2 make that four --- I am not suspending their sentence.
 \q1 Because they ripped open pregnant women in Gilead,
@@ -75,7 +96,7 @@
 \q2 With a bugle-call, with the sound of the horn.
 \v 3 And I will get rid of the judges among them,
 \q2 and execute all of his officials with him," says the \nd Lord\nd*.
-\b 
+\b
 \v 4 The \nd Lord\nd* says, "After three atrocities from Judah ---
 \q2 make that four --- I am not suspending their sentence.
 \q1 Because they have trampled on the teaching of the \nd Lord\nd*,
@@ -84,12 +105,12 @@
 \q2 in the same ways their ancestors followed.
 \v 5 So I will set fire to Judah.
 \q2 And it will burn up the high buildings of Jerusalem."
-\b 
+\b
 \v 6 The \nd Lord\nd* says, "After three atrocities from Israel ---
 \q2 make that four --- I am not suspending their sentence.
 \v They buy out stable people with money,
 \q2 and foreclose on those who are bankrupt.\f + \fl Lit. \fqa and the needy for a pair of shoes. \ft A land transaction is implied (Ruth 4.7, Deut. 25.9).\f*
-\rem Lit. "" 
+\rem Lit. ""
 \v 7 Driving the head of the weak down into the dusty ground,
 \q2 and taking advantage of simple people.
 \q1 A man and his father use the same girl,
@@ -98,7 +119,7 @@
 \q2 at the foot of every altar,
 \q1 and drink wine paid as fines
 \q2 in the temple of their God."
-\b 
+\b
 \v 9 Now, I was the one who wiped out the Amorites in front of you.
 \q2 They were tall, as tall as cedars,
 \q1 and they were sturdy as oak trees.
@@ -121,7 +142,7 @@
 \q2 and riders on horseback won't save themselves.
 \v 16 And the most courageous of soldiers
 \q2 will throw down their arms and run away then,”\f + \fq throw down their arms and run away \fl Lit. \fqa run away naked.\f* says the \nd Lord\nd*.
-\b 
+\b
 \c 3
 \v 1 Listen to this problem,
 \q2 that the \nd Lord\nd* has with you, people of Israel,
@@ -161,7 +182,7 @@
 \q2 explains the \nd Lord\nd*.
 \q1 "They are stockpiling stolen goods
 \q2 and loot in their high buildings."
-\b 
+\b
 \v 11 "So, then," says His [cth:Honour|us:Honor] the \nd Lord\nd*,
 \q2 An enemy will come and surround the land,
 \q1 that will bring down your fortifications,
@@ -182,7 +203,7 @@
 \q2 not only the summer houses,
 \q1 and the ivory mansions will be no more.
 \q2 And many homes will be torn down," says the \nd Lord\nd*.
-\b 
+\b
 \c 4
 \v 1 Listen to this, Bashan heifers.
 \q2 You, there, on Samaria Hill.
@@ -220,7 +241,7 @@
 \q2 all through your gardens and vineyards.
 \q1 Grasshoppers ate your fig and your olive trees,
 \q2 And yet you didn't come back to me," says the \nd Lord\nd*.
-\b 
+\b
 \v 10 "I spread epidemics among you
 \q2 from the trade route to Egypt.
 \q1 I had your young men killed with the sword,
@@ -239,7 +260,7 @@
 \q2 the maker of dawn and dusk,
 \q1 and the one striding across the heights of the world ---
 \q2 His name is the \nd Lord\nd*, the God of Armies!
-\b 
+\b
 \c 5
 \v 1 Listen to this problem,
 \q2 that I need to take up with you.
@@ -279,11 +300,11 @@
 \q2 but you will not call them home.
 \q1 You have planted lush vineyards,
 \q2 But you will not drink their wine.
-\v 12 Oh, I know your long list of [cth:licence|us:license], 
+\v 12 Oh, I know your long list of [cth:licence|us:license],
 \q2 your staggering count of sins!
 \q1 You adversaries of the innocent!
 \q2 Your hands out for hush money,
-\q1 While you drive away the needy downtown\f + \fq downtown \fl Lit. \fqa in the gates.\f*! 
+\q1 While you drive away the needy downtown\f + \fq downtown \fl Lit. \fqa in the gates.\f*!
 \q2 \v 13 That's why a person with any sense
 \q1 will keep their mouth shut at a time like this.
 \q2 These are troubled times.
@@ -295,7 +316,7 @@
 \q2 and make justice a fixture downtown.
 \q1 Who knows? Maybe the \nd Lord\nd*, the God of Armies,
 \q2 will be sympathetic to what’s left of Joseph.
-\b 
+\b
 \v 16 So this is what the \nd Lord\nd* says,
 \q2 His [cth:Honour|us:Honor], the God of Armies.
 \q1 "There will be mourning on every boulevard,
@@ -304,7 +325,7 @@
 \q2 and the funeral directors for the memorial,
 \v 17 There’ll be a funeral in every farmyard,
 \q2 when I come through to deal with you," says the \nd Lord\nd*.
-\b 
+\b
 \v 18 "Beware, you that are wishing for the Day of the \nd Lord\nd*!
 \q2 What business of yours is the Day of the \nd Lord\nd*?
 \q1 It's darkness, and not light.
@@ -331,11 +352,11 @@
 \q2 \v 27 And I will deport you beyond Damascus."
 \q1 That is what the \nd Lord\nd* has said,
 \q2 whose name is the God of Armies.
-\b  
+\b
 \v 6
 \v 1 Watch out, you who are at your ease in Zion,
 \q2 and self-assured in Samaria Hill!
-\q1 You're driven men, an international elite, 
+\q1 You're driven men, an international elite,
 \q2 And the family of Israel comes to you.
 \v 2 Travel to Calneh and see,
 \q2 and go from there to Greater Hamath.
@@ -344,23 +365,23 @@
 \v 3 Are you holding off times of hardship?
 \q2 And how? At the price of harsh tyranny?
 \v 4 You are lying on ivory beds,
-\q2 and relaxing on your couches, 
+\q2 and relaxing on your couches,
 \q1 and eating milk-fed lamb and penned veal.
 \q2 \v 5 You improvise to the sound of the \tr nevel\tr*\f + \fr 6.5 \fq \tr nevel\tr* \ft A resonating stringed instrument that is an ancestor of the guitar.\f*,
-\q1 inventing new musical instruments like David. 
+\q1 inventing new musical instruments like David.
 \q2 \v 6 You drink wine by the bowlful,
 \q1 and put on lotions of virgin oil,\f + \fq virgin oil \ft Oil from Tekoa was traditionally preferred for Temple use, because of its quality.\f*
-\q2 but you are not at all concerned about the decline of Joseph. 
-\v 7 So now you'll be the first in line to be deported, 
+\q2 but you are not at all concerned about the decline of Joseph.
+\v 7 So now you'll be the first in line to be deported,
 \q2 and the cheers of the party-goers will fade away.
-\v 8 His [cth:Honour|us:Honor] the \nd Lord\nd* has sworn by himself. 
+\v 8 His [cth:Honour|us:Honor] the \nd Lord\nd* has sworn by himself.
 \q2 The \nd Lord\nd*,  the God of Armies, announces,
 \q1 "I want nothing to do with the Rise of Jacob!\f + \fq Rise of Jacob \fl Traditionally, \fqa Pride of Jacob.\f*
-\q2 And I hate their high buildings. 
+\q2 And I hate their high buildings.
 \q1 So I will write off\f + \fr 6.8 \fq write off \ft The Hebrew word means both \fqa write off \ft and \fqa seal up.\f* cities and everyone in them."
 \q2 \v 9 For example, if there are ten men
-\q1 left in one household, they'll all die. 
-\q2 \v 10 And there will be someone taking the corpse 
+\q1 left in one household, they'll all die.
+\q2 \v 10 And there will be someone taking the corpse
 \q1 of a relative outside to burn it.
 \q2 And he will ask someone he meets in an alley,
 \q1 “Is anyone left?”
@@ -390,7 +411,7 @@
 \q2 How can Jacob survive? He is so small!
 \v 3 The \nd Lord\nd* was moved by the thought.
 \q2 “That will not happen,” the \nd Lord\nd* said.
-\b 
+\b
 \v 4 His [cth:Honour|us:Honor] the \nd Lord\nd* showed me this.
 \q2 I saw that he was calling for fire to come up ---
 \q1 His [cth:Honour|us:Honor] the \nd Lord\nd* was. And it burned deep underground,
@@ -399,7 +420,7 @@
 \q2 How can Jacob survive? He is so small!'
 \v 6 The \nd Lord\nd* was moved by the thought.
 \q2 “That will not happen, either,” His [cth:Honour|us:Honor] the \nd Lord\nd* said.
-\b 
+\b
 \v 7 The \nd Lord\nd* showed me this.
 \q2 I saw that the \nd Lord\nd* was standing
 \q1 beside a wall under construction,\f + \fr 5.12 \fq wall under construction \fl Or \fqa masonry wall. \fl Lit. \fqa wall for a plumbline.\f*
@@ -414,14 +435,14 @@
 \q2 \v 9 And Ithaac’s\f + \fr 7.9 \ft Amos misspells "Isaac," creating a play on words that makes it sound like he is calling the patriarch a "playboy" instead of "the son of laughter."\f* hilltop shrines will be turned into ruins.
 \q1 The temples of Israel will be desolate,
 \q2 and I will attack the House of Jeroboam with the sword.”
-\b 
+\b
 \v 10 Then Amaziah the priest of Beit El
 \q2 sent a message to Jeroboam king of Israel that said,
 \q1 “Amos has formed a conspiracy against you among the House of Israel.
 \q2 The country is not secure while he is allowed to speak.
 \v 11 Because Amos has said that ‘Jeroboam will die by the sword,
 \q2 and Israel is going to be deported away from their own soil.'”
-\b 
+\b
 \v 12 Then Amaziah said to Amos, "You holy man!\f + \fq holy man \fl Lit. \fqa seer. \fl cf. \ft 1 Samuel 9.9. Amaziah insults Amos by using the archaic term for a prophet.\f* Go, run back home to Judah!
 \q2 and ‘eat bread’\f + \fq eat bread \ft A mocking reference to the story in 1 Kings 13.9\f* there, and do your preaching there!
 \v 13 But you are never to speak out at Beit El again.
@@ -435,12 +456,12 @@
 \q1 You're saying, ‘Don't speak out against Israel,
 \q2 or criticize the House of Ithaac.’
 \v 17  Well, that's why the \nd Lord\nd* says this:
-\q2 'Your wife is going to end up as a prostitute in the big city. 
+\q2 'Your wife is going to end up as a prostitute in the big city.
 \q1 Your sons and your daughters are going to fall by the sword.
-\q2 Your farm is going to be surveyed and subdivided. 
+\q2 Your farm is going to be surveyed and subdivided.
 \q1 And you yourself are going to die where the land is unclean,
 \q2 and Israel is going to be deported away from their own soil.'”
-\b 
+\b
 \c 8
 \v 1 His [cth:Honour|us:Honor] the \nd Lord\nd* showed me something.
 \q2 It was a harvesting bin.\f + \fl Others \fqa a basket of summer fruit. \ft The word \fqa fruit \ft is not part of the text. \f*
@@ -452,7 +473,7 @@
 \q2 declares His [cth:Honour|us:Honor] the \nd Lord\nd*.
 \q1 “Carcasses will be piled everywhere.
 \q2 ‘Get them out of here! Hush!’”
-\b 
+\b
 \v 4 Listen to this, you that market to the needy,
 \q2 and try to put family farmers out of work.
 \v 5 You’re saying,
@@ -471,7 +492,7 @@
 \q2 That's why the sea level rises like a spring flood,\f + \fq like a spring flood \fl Others \fqa like the Nile. \ft The word \tr 'or\tr*, used only here, is probably a common noun related to \tr Y'or\tr*, "Nile."\f*
 \q1 And overflows, and spreads out,
 \q2 And finds a new shore,\f + \fq finds a new shore \fl Traditionally emended as \fqa subsides \ft to match 9.5e. The emendation, from a common water-word to a less common one, seems unnecessary. \f* like the Nile in Egypt.
-\b 
+\b
 \v 9 "And it will also happen at that time,"
 \q2 declares His [cth:Honour|us:Honor] the \nd Lord\nd*,
 \q1 "That I will bring in the sun at noon
@@ -496,8 +517,8 @@
 \q2 and say, 'Your God lives, Dan!’
 \q1 And, ‘Long live the Way of Beersheba!'
 \q2 Yes, they will fall, and not get up again."
-\b 
-\c 9  
+\b
+\c 9
 \v 1 I saw the \nd Lord\nd* standing next to the altar,
 \q2 and he said, “Hit the capital, and make the thresholds shake!
 \q1 Yes, break them all off at the top!
@@ -548,7 +569,7 @@
 \q2 \v 12 So they may take possession of what’s left of Edom,
 \q1 and all the nations that have had my name called over them,”
 \q2 declares the \nd Lord\nd*, who does all this.
-\b 
+\b
 \v 13 "A time is coming, you see,"
 \q2 declares the \nd Lord\nd*,
 \q1 "when the plowman will be interrupted\f + \fq will be interrupted \fl Others \fqa will overtake. \fl Lit. \fqa will meet.\f* by the reaper,
